@@ -25,6 +25,7 @@ import org.springframework.lang.Nullable;
  * @author Rob Harrop
  * @since 2.0
  */
+//bean属性操作主要用于
 public interface AttributeAccessor {
 
 	/**

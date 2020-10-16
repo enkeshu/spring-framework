@@ -25,6 +25,7 @@ import org.springframework.lang.Nullable;
  * @author Juergen Hoeller
  * @since 2.0
  */
+//bean 元数据操作
 public interface BeanMetadataElement {
 
 	/**
